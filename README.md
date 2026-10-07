@@ -27,13 +27,12 @@ Stable URL:
 https://raw.githubusercontent.com/TsaiFisher/smartfactory-licensing/main/crl.json
 ```
 
-## Community licenses
+## Obtaining a license
 
-This repository is also where community licenses for
-[Gemba MES](https://github.com/TsaiFisher/gemba-mes) are requested.
-
-Open an issue using the **申請社群授權檔 / Request a community license**
-template. Community licenses are free and valid for 10 years.
+Licenses for [Gemba MES](https://github.com/TsaiFisher/gemba-mes) are free but
+require registration. The first registration of each organization is approved
+manually; licenses are renewed yearly. Until the registration page is online,
+please register through your implementation consultant.
 
 ⚠️ Provide your **environment fingerprint** (64 hex characters), never the
 machine anchor id itself — the anchor is key material for connection-string
@@ -41,6 +40,11 @@ encryption, the fingerprint is its one-way hash.
 
 Signing happens offline on the maintainer's machine; the signing key never
 leaves it. Expect a few days, not minutes.
+
+> The separate "community license" (and its issue template) announced on
+> 2026-10-01 has been withdrawn before any license was issued. If the
+> maintainer stops the service, a signed sunset statement published here will
+> permanently lift license enforcement — see `LICENSING.md` in Gemba MES.
 
 ## Reason codes
 
