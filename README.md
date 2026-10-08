@@ -27,6 +27,16 @@ Stable URL:
 https://raw.githubusercontent.com/TsaiFisher/smartfactory-licensing/main/crl.json
 ```
 
+## `endpoints.json`
+
+Signed with the same root key as `crl.json`. Lists the license lease server(s)
+clients contact, in order. Moving the server to another host only requires a
+new `endpoints.json` — no client update and no license re-issue.
+
+```
+https://raw.githubusercontent.com/TsaiFisher/smartfactory-licensing/main/endpoints.json
+```
+
 ## Obtaining a license
 
 Licenses for [Gemba MES](https://github.com/TsaiFisher/gemba-mes) are free but

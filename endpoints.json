@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "type": "endpoints",
+  "issuedAt": "2026-10-08T03:44:45.0620446+00:00",
+  "leaseServers": [
+    "https://license.gemba-mes.workers.dev"
+  ],
+  "signature": "EM9YXKxUZEexRfYgXou9d5MLhl8CxyuYhYy/gVKD3BBFIMnLZ9NO19hP48r0EV5AkOSEMrSqLuGfif/WUnl1CJQMwglf1ZI/JJnhUFjUyhAfk5rN9gX3guYo5uFc2pcPaj9yO4n7TeatUd0lbTG0grhXZcIZsbjeJNFQLvgcC/pUmD79UzsQPk72BtrGsZFiBYdb5kfgwMCSoQSxNnE4GwE6bxKiq7DVcMmcEGtk5\u002B0ac5t7GNqQ2QQrn8rFNvYnoyQ2nG/wTIugz10w\u002BBHuocQSqyE5LG3K0Hy3pHKDLhNa/\u002Bkzw3E\u002BpswbnX0ac/fVh28CDPYgp2AZUEBWnVFUxA=="
+}
